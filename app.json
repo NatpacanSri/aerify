@@ -1,5 +1,8 @@
 {
   "expo": {
+    "android": {
+      "googleServicesFile": "./google-services.json"
+    },
     "name": "aerify",
     "slug": "aerify",
     "version": "1.0.0",
